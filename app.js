@@ -11,5 +11,5 @@ if(age< 0){
     document.getElementById("result").innerHTML = "Invalid input";
         return;
 }
-document.getElementById("result").innerHTML = age+" yrs";
+document.getElementById("result").innerHTML ="You are "+age+" yrs old";
 }
